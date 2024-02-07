@@ -3,3 +3,22 @@
     grid-template-columns: repeat(6, 1fr );
     grid-template-rows: repeat(6, 1fr);
 }
+
+.dev > p {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    color: black;
+}
+
+.white {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
+
+.black {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
