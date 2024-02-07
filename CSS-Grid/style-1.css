@@ -1,5 +1,17 @@
+body {
+    height: 100vh;
+    
+}
+
 .container {
     display: grid;
     grid-template-columns: repeat(6, 1fr );
     grid-template-rows: repeat(6, 1fr);
+}
+
+.dev > p {
+    font-weight: bold;
+    text-align: center;
+    font-size: 2rem;
+
 }
